@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tema-01-react/static/css/main.bc541e4c.css",
+    "main.js": "/tema-01-react/static/js/main.5f233366.js",
+    "index.html": "/tema-01-react/index.html",
+    "main.bc541e4c.css.map": "/tema-01-react/static/css/main.bc541e4c.css.map",
+    "main.5f233366.js.map": "/tema-01-react/static/js/main.5f233366.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc541e4c.css",
+    "static/js/main.5f233366.js"
+  ]
+}
